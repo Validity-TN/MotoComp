@@ -1,0 +1,5 @@
+gtin;title;brand;mpn;seller;price;currency;shipping_cost;availability;url;image_url
+4.00638E+12;Permanent Marker Schwarz;Staedtler;PM-100;ShopA;1.99;EUR;3.9;in_stock;https://shopa.example/p/pm100;https://shopa.example/img/pm100.jpg
+4.00638E+12;Permanent Marker Schwarz;Staedtler;PM-100;ShopB;2.49;EUR;2.5;in_stock;https://shopb.example/p/pm100;https://shopb.example/img/pm100.jpg
+8.8591E+11;Magic Keyboard;Apple;MK2A3D/A;ShopA;99;EUR;0;in_stock;https://shopa.example/p/mk2a3;https://shopa.example/img/mk2a3.jpg
+8.8591E+11;Magic Keyboard;Apple;MK2A3D/A;ShopC;95;EUR;6.9;in_stock;https://shopc.example/p/mk2a3;https://shopc.example/img/mk2a3.jpg
